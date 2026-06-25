@@ -2,6 +2,8 @@
 @import "tailwindcss";
 
 @theme {
+  --font-luxurious: "Luxurious Roman";
+  --color-footerBg: #242726;
   --color-background: #20112E;
   --color-highlight: #AE7F2F;
   --color-lightpurple: #C5AEDC;
