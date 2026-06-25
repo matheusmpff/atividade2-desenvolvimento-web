@@ -1,1 +1,8 @@
-@import "tailwindcss"
+@import "tailwindcss";
+
+@theme {
+  --color-background: #20112E;
+  --color-highlight: #AE7F2F;
+  --color-lightpurple: #C5AEDC;
+  --color-darkpurple: #53337E;
+}
