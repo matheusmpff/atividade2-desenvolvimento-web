@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Luxurious+Roman&display=swap');
 @import "tailwindcss";
 
 @theme {
@@ -5,4 +6,8 @@
   --color-highlight: #AE7F2F;
   --color-lightpurple: #C5AEDC;
   --color-darkpurple: #53337E;
+}
+
+body{
+  font-family: "Lato";
 }
