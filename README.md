@@ -13,4 +13,4 @@ Nessa página, o exercício propõe que certas informações estejam presentes, 
 A cliente por sua vez, demonstra interesse em fontes clássicas e sombrias de forma a orientar o desenvolvedor a necessidade de seguir paleta de cores que irá compor o site de forma a serem mais escuras. 
 
 ## Execução 
-Instale as dependências em cada pasta que contem um package.json executando o comando npm install. Após isso, execute npm run dev em cada pasta para executar os programas de backend front end para o usuário e a página de administração.
+Instale as dependências em cada pasta que contem um package.json executando o comando npm install. Após isso, execute npm run dev em cada pasta para executar os programas de backend front end para o usuário e a página de administração. No total há 3 pastas dentro delas tem o projeto. Acesse o projeto e execute as instruções a cima. O back-end ja inclui alguns produtos no banco previamente para visualização de como ficaria nas páginas.
